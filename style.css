@@ -1,0 +1,30 @@
+body, html {
+	font-family: 'Frank Ruhl Libre', serif;
+	height: 100%;
+	background: url('startup.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+hr {
+	width: 50px;
+	height: 20px;
+	margin: 20px auto;
+}
+
+.btn {
+	width: 40%;
+	background-color: #54A759;
+	border-radius: 30px;
+	text-transform: uppercase;
+}
+
+.btn-success:hover {
+	border-color: #54A759;
+	width: 300px;
+}
